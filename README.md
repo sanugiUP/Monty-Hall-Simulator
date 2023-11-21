@@ -1,7 +1,7 @@
 # Project Description
 This web application simulates the famous Monty Hall problem, allowing users to explore the probability paradox. The backend is developed with C#/.NET Core, while the frontend is built using Angular.
 
-Prerequisites
+## Prerequisites
 > Docker installed on your machine.
 
 ## Getting Started
