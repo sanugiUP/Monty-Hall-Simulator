@@ -7,6 +7,7 @@ Prerequisites
 ## Getting Started
 Clone the repository:
 > git clone https://github.com/your-username/monty-hall-simulator.git
+
 > cd monty-hall-simulator
 
 Build the Docker containers:
