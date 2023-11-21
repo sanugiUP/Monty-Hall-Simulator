@@ -1,19 +1,19 @@
-# MontyHallSimulator
+# Project Description
 This web application simulates the famous Monty Hall problem, allowing users to explore the probability paradox. The backend is developed with C#/.NET Core, while the frontend is built using Angular.
 
 Prerequisites
-Docker installed on your machine.
+> Docker installed on your machine.
 
 ## Getting Started
 Clone the repository:
-git clone https://github.com/your-username/monty-hall-simulator.git
-cd monty-hall-simulator
+> git clone https://github.com/your-username/monty-hall-simulator.git
+> cd monty-hall-simulator
 
 Build the Docker containers:
-docker-compose build
+> docker-compose build
 
 Run the application:
-docker-compose up
+> docker-compose up
 
 The application will be accessible at http://localhost:8081
 
